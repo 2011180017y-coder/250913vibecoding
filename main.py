@@ -3,6 +3,8 @@ st.title('나의 첫 웹앱!!!!!!!')
 st.write('드가자')
 import streamlit as st
 
+import streamlit as st
+
 # 서울 구 리스트
 seoul_districts = [
     "종로구", "중구", "용산구", "성동구", "광진구", "동대문구", "중랑구",
